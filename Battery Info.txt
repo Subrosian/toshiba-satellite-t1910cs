@@ -1,0 +1,12 @@
+Model: PA2429U
+Voltage: 12V
+Capacity: 2600mAh
+Cell Type: Ni-MH
+
+Battery Pinout:
+1) -
+2) Thermistor
+3) NC
+4) Thermistor
+5) +
+
