@@ -1,0 +1,2 @@
+Replace C511 : Replacement Panasonic 6.3V 1000uf Low Impedance
+This is usually the culprit for the laptop not powering on
